@@ -1,4 +1,4 @@
-# lan-chat
+# LanChat
 A Client-Server Chat Room written in basic Java
 
 The application consists of two primary classes, the LanServer class and the LanClient class.
